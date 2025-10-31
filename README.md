@@ -7,12 +7,11 @@ Required tools:
 4. feh
 5. i3
 6. st terminal
-7. momoisay (optional)
-8. htop (optional)
-9. fastfetch (optional)
-10. clock-tty (optional)
-11. yay (for arch)
-12. shell = bash
+7. htop (optional)
+8. fastfetch (optional)
+9. clock-tty (optional)
+10. yay (for arch)
+11. shell = bash
 
 this setup have autostart for some apps, so if you don't want it just comment or remove the line in i3 config (just search for "autostart workspaces")
 
