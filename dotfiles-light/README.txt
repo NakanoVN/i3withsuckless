@@ -12,6 +12,7 @@ Required tools:
 10. yay (for arch)
 11. shell = bash
 12. betterlockscreen
+13. autotiliing
 
 use cmd "betterlockscreen -u ~/.config/wallpaper/wallpaper2 --fx blur,dim --blur 1 --dim 40
 
